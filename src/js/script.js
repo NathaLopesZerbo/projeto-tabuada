@@ -32,7 +32,7 @@ multiplicationForm.addEventListener('submit', (e) => {
     const multiplicationNumber = +numberInput.value;
     const multiplicatorNumber = +multiplicationInput.value;
 
-    if(!multiplicationNumber  || !multiplicatorNumber) return;
+    if(!multiplicationNumber || !multiplicatorNumber) return;
 
 
 
